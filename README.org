@@ -1,6 +1,6 @@
-* Last name:Braick
-* First name:Alise
-* Github username:AliseBraick
+* Last name: Braick
+* First name: Alise
+* Github username: AliseBraick
 
 * Instructions:
 
