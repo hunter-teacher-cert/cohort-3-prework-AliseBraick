@@ -1,3 +1,7 @@
 ping prnts a period 
 (".") and baffle prints"wug." wug and a period
+the outputs for the program is:
+No, I wug.
+You wugga wug.
+I wug.
 Printing baffle at the end of the ping methos produces an stream of errors!! 
