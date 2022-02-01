@@ -1,0 +1,10 @@
+Excerise 1
+Main
+
+iteration       i         n.        Output
+# 1.            10.       10           5
+# 2.            6.        10.          3
+# 4             3.        10           4
+# 5.            4.        10           2
+# 6             2         10           1  
+# 7             1         10           Void
