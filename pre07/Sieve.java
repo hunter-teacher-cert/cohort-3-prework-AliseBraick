@@ -6,7 +6,7 @@ public class Sieve {
   //boolean[] prime = {0, 1, 2, 4, 5, 6, 7, 8, 9, 10};
   System.out.println( Arrays.toString(sieve(15) ));
     }
-  }
+  
       
   public static boolean [] sieve(int n ){
     boolean[] prime = new boolean[n];
