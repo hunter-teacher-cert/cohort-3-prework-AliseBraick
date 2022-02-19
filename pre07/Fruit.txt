@@ -1,0 +1,5 @@
+The banana Method: it takes an integer array and return an ineger resulted from multiplying all its index
+
+The grapefruit method: it takes an array of integer and and integer stored in a variable grape. The array returns the index number of the grape if it is one of its index.Otherwise it returns -1.
+
+The pineapple method: it takes an array of intergers and an integers and it returns how many times that integer appear in that array. 
