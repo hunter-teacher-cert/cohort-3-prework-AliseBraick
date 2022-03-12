@@ -31,19 +31,21 @@ public class Craps {
   }
 
   public static boolean round(){ 
-    int diceSum = shoot(2,6);
+    int diceSum = shoot(2,6); 
     System.out.println(" You rolled " + diceSum);
-    int point = 0;
+    int point = 0; 
     if (diceSum == 2 || diceSum == 3 || diceSum == 12){
       return false;
     } else if (diceSum == 7 || diceSum == 11) {
       return true;
     } else {
-      point = diceSum;
+      point = diceSum; 
     }
+    diceSum = 0;
     System.out.println("The point now is " + point);
     while ((point != diceSum) && (point != 7)){
-			point = shoot(2,6);
+			diceSum = shoot(2,6);
+      System.out.println("You rolled "+ diceSum);
 		}
 		if (diceSum == point) {
 			return true;
